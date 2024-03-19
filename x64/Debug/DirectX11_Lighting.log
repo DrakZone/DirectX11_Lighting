@@ -1,0 +1,22 @@
+﻿C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\ps_main.hlsl(115,11): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  
+  compilation object save succeeded; see C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\x64\Debug\ps_main.cso
+C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\vs_main.hlsl(41,2-63): warning X3206: implicit truncation of vector type
+C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\vs_main.hlsl(42,5-69): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\x64\Debug\vs_main.cso
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\mesh.h(36,20): warning C4244: '=': conversion from 'const uint64_t' to 'UINT', possible loss of data
+C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\mesh.h(82,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\main.cpp(342,45): warning C4244: 'argument': conversion from 'uint64_t' to 'UINT', possible loss of data
+C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\DirectX11_Lighting\main.cpp(359,8): warning C4552: '!=': result of expression not used
+  Generating Code...
+  DirectX11_Lighting.vcxproj -> C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\x64\Debug\DirectX11_Lighting.exe

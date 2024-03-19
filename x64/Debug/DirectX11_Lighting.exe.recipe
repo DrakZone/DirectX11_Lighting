@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\x64\Debug\DirectX11_Lighting.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\x64\Debug\ps_main.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\Documents\Programming\GameJamSFML_\DirectX11_Lighting\DirectX11_Lighting\x64\Debug\vs_main.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
